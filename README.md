@@ -28,7 +28,7 @@ This GitHub repository provides a comprehensive step-by-step guide to integratin
 
 ## Video
 
-[![Watch the video](https://img.youtube.com/vi/YQ8eZ6wUgL99yZP1/0.jpg)](https://www.youtube.com/watch?v=YQ8eZ6wUgL99yZP1)
+[![Watch the video](https://img.youtube.com/vi/2DONhPY84Gs/0.jpg)](https://www.youtube.com/watch?v=2DONhPY84Gs)
 
 # Cautions
 
