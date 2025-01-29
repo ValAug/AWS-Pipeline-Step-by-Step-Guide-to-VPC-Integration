@@ -156,7 +156,7 @@ terraform destroy --auto-approve
 - el comando terraform __destroy__ destruye la infraestructura creada previamente
 - Comando alternativo: terraform destroy -auto-approve
 - el comando terraform __fmt__ reformatea tu configuración en el estilo estándar
-````
+
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT.
