@@ -80,7 +80,7 @@ resource "aws_codepipeline" "cicd_pipeline" {
             version = "1"
             output_artifacts = ["code"]
             configuration = {
-                FullRepositoryId = "/repo"
+                FullRepositoryId = "ADD FULL REPO ID HERE/REPO NAME"
                 BranchName   = "dev"
                 ConnectionArn = var.codestart_connector_credential
                 OutputArtifactFormat = "CODE_ZIP"
