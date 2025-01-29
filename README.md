@@ -121,7 +121,6 @@ Here’s the translation into Spanish:
 [![video](https://img.youtube.com/vi/YQ8eZ6wUgL99yZP1/0.jpg)](https://www.youtube.com/watch?v=YQ8eZ6wUgL99yZP1)
 
 
-
 # Precauciones
 
 * Como una mejor práctica de AWS, otorga a este código el principio de menor privilegio, o solo los permisos necesarios para realizar una tarea. Para más información, consulta [Otorgar el Menor Privilegio](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#grant-least-privilege) en la *Guía del Usuario de AWS Identity and Access Management*.
