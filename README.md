@@ -26,6 +26,10 @@ This GitHub repository provides a comprehensive step-by-step guide to integratin
 
 * You must have Terraform installed [How to install terraform guide](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
+## Video
+
+[![Watch the video](https://img.youtube.com/vi/YQ8eZ6wUgL99yZP1/0.jpg)](https://www.youtube.com/watch?v=YQ8eZ6wUgL99yZP1)
+
 # Cautions
 
 * As an AWS best practice, grant this code least privilege, or only the 
@@ -107,10 +111,16 @@ Este repositorio de GitHub proporciona una guía completa paso a paso para integ
 
 Here’s the translation into Spanish:
 
-````markdown
+
 # Prerrequisitos
 
 * Debes tener Terraform instalado [Guía de instalación de Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
+
+## Video
+
+[![video](https://img.youtube.com/vi/YQ8eZ6wUgL99yZP1/0.jpg)](https://www.youtube.com/watch?v=YQ8eZ6wUgL99yZP1)
+
+
 
 # Precauciones
 
