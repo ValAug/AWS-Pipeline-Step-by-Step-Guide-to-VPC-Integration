@@ -1,4 +1,4 @@
-# AWS Pipeline Step-by-Step Guide to VPC Integration - # Guía Paso a Paso de AWS Pipeline para Integración con VPC ⬇️ Abajo
+# AWS Pipeline Step-by-Step Guide to VPC Integration - Guía Paso a Paso de AWS Pipeline para Integración con VPC ⬇️ Abajo
 
 
 
