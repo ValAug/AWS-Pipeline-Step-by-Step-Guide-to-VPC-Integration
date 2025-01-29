@@ -4,6 +4,10 @@
 
 Welcome to the **AWS Pipeline Step-by-Step Guide to VPC Integration**! This guide will help you set up an AWS Pipeline integrated with a Virtual Private Cloud (VPC) using Terraform.
 
+# Diagram
+![CICD](https://github.com/ValAug/AWS-Pipeline-Step-by-Step-Guide-to-VPC-Integration/blob/main/diagram/awscodepipelinemonitoringnotification.png)
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Main Function Points](#main-function-points)
