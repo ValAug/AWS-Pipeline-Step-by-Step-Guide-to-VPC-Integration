@@ -52,6 +52,12 @@ resource "aws_codebuild_project" "apply" {
      type   = "CODEPIPELINE"
      buildspec = "buildspec-apply.yml"
  }
+
+ vpc_config {
+   vpc_id = aws_vpc.main_vpc.id
+   subnets = aws_subnet.public_subnet.id
+   security_group_ids = aws_security_group.private_sg.id
+ }
  logs_config {
     cloudwatch_logs {
       group_name = aws_cloudwatch_log_group.codebuild_log_group.name

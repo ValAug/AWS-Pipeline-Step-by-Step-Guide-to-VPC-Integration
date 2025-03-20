@@ -1,0 +1,5 @@
+#--sensitive data
+
+codestart_connector_credential = "your codestart arn goes here"
+
+#-- please remove the .example from the name of this file once you added your arn. 
