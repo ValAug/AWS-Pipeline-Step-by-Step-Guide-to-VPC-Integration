@@ -8,7 +8,7 @@ Welcome to the **AWS Pipeline Step-by-Step Guide to VPC Integration**! This guid
 ![CICD](https://github.com/ValAug/AWS-Pipeline-Step-by-Step-Guide-to-VPC-Integration/blob/main/diagram/awscodepipelinemonitoringnotification.png)
 
 # Final-Diagram
-![CICD](https://github.com/ValAug/AWS-Pipeline-Step-by-Step-Guide-to-VPC-Integration/blob/main/diagram/awscodepipelinemonitoringnotification.png)
+![CICD](https://github.com/ValAug/AWS-Pipeline-Step-by-Step-Guide-to-VPC-Integration/blob/main/diagram/vpcdigram.png))
 
 
 ## Table of Contents
